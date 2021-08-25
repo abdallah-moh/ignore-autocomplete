@@ -2,7 +2,8 @@
   "name": "ignore-autocomplete",
   "displayName": "Ignore Autocomplete",
   "description": "Auto path completion for ignore files",
-  "version": "0.0.1",
+  "publisher": "Abdallah-Moh",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.59.0"
   },
